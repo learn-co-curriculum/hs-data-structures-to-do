@@ -1,8 +1,4 @@
----
-tags: kids
-level: 1
-type:to-do
----
+
 ##That's Nonsense!
 <img src="https://s3.amazonaws.com/after-school-assets/gibberish.gif">
 
