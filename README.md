@@ -6,4 +6,4 @@ Write a method `crazy_strings` that takes in two strings as arguments. The first
 
 For example, `crazy_strings("Hello", "Friends")` should return `"OLLEH fRIENDZ"`.
 
-<a href='https://learn.co/lessons/hs-data-structures-to-do' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-data-structures-to-do' title='That's Nonsense!'>That's Nonsense!</a> on Learn.co and start learning to code for free.</p>
